@@ -42,7 +42,7 @@
     "starlight-heading-badges": "^0.6.0",
     "starlight-links-validator": "^0.17.1",
     "starlight-llms-txt": "^0.6.0",
-    "tailwindcss": "^4.1.12",
+    "tailwindcss": "^4.1.16",
     "typescript": "^5.9.2"
   },
   "devDependencies": {
